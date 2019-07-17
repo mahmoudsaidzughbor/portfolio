@@ -1,0 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#map {
+    width: 970px; height:350px; margin-top: -500px; margin-bottom:0px;
+}
+.info-window {
+    font-family: 'Montserrat', sans-serif;
+}
+.info-content {
+    color: #999;
+}
